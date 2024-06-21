@@ -1,0 +1,17 @@
+.presentation{
+    padding: 80px 0;
+}
+
+.presentation h1{
+    margin: 20px 0;
+}
+
+.presentation p:nth-child(3){
+    text-align: justify;
+    margin-left: 20px;
+    max-width: 50%;
+}
+
+.presentation section{
+    margin: 30px 25px;
+}

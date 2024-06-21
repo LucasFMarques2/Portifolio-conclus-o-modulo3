@@ -1,0 +1,21 @@
+
+.button button{
+    padding: 10px 30px;
+
+    border: none;
+    border-radius: 30px;
+    
+    color: aliceblue;
+    background: linear-gradient(to right, rgba(19, 173, 199, 1), rgba(105, 120, 209, 1), rgba(148, 93, 214, 1));
+
+    font-size:15px;
+
+    cursor: pointer;
+    transition: .8s;
+}
+
+.button button:hover{
+    transform: scale(1.1);
+    transition: .8s;
+    background: linear-gradient(to right, rgb(27, 128, 146), rgb(75, 88, 161), rgb(94, 55, 143));
+}
